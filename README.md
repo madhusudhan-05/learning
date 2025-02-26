@@ -8,3 +8,4 @@ Doc7 - JavaScript Errors(try,catch,finally,throw), Math Object - properties and 
 Doc8 - JavaScript Date object, Numbers and BigInt (properties and methods)   
 Doc9 - JavaScript Destructuring, Basics of Regulae Expressions, JS operator precedence, Hoisting, strict mode, Modules, Debugging  
 Doc10 - HTML DOM part 1, pattern problem-2  
+Doc11 - HTML DOM part 2  
