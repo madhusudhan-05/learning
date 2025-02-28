@@ -10,3 +10,4 @@ Doc9 - JavaScript Destructuring, Basics of Regulae Expressions, JS operator prec
 Doc10 - HTML DOM part 1, pattern problem-2  
 Doc11 - HTML DOM part 2  
 Doc12 - JS Browser Object Model (BOM)  
+Doc13 - JS Async, Web APIs  
