@@ -11,3 +11,5 @@ Doc10 - HTML DOM part 1, pattern problem-2
 Doc11 - HTML DOM part 2  
 Doc12 - JS Browser Object Model (BOM)  
 Doc13 - JS Async, Web APIs  
+Doc14 - Memory management and garbage collection, functional programming, currying function  
+Doc15 - Performance optimization - Debouncing, Throttling, Lazy loading, Code Splitting, Tree shaking  
